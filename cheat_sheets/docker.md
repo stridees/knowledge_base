@@ -41,4 +41,4 @@
 ### Управление контейнерами
 - `docker stop my-container`: Остановить контейнер с именем "my-container"
 - `docker rm -f my-container`: Принудительно удалить контейнер с именем "my-container"
-- 
+  
