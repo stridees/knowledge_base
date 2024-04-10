@@ -27,7 +27,7 @@ while number > 0:
     number = number // 10
 
 # Выводим результат
-print("Количество цифр: ", result)
+print("Количество цифр:", result)
 ```
 
 ## Сумма цифр
@@ -56,7 +56,7 @@ while number > 0:
     number = number // 10
 
 # Выводим результат
-print("Сумма цифр: ", result)
+print("Сумма цифр:", result)
 ```
 
 ## Произведение цифр
@@ -85,5 +85,5 @@ while number > 0:
     number = number // 10
 
 # Выводим результат
-print("Произведение цифр: ", result)
+print("Произведение цифр:", result)
 ```
